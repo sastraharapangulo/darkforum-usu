@@ -1,0 +1,1 @@
+export const redditProfileImage = "/images/header.png"
